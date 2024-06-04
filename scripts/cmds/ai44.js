@@ -794,7 +794,7 @@ case prompt.toLowerCase().startsWith('pin query'): {
 
 
 
-          await message.reply(`𝗬𝗔𝗡𝗭𝗨 𝗚𝗣𝗧 \n━━━━━━━━━━━━\n\n${data.original}\n━━━━━━━━━━━━\n`);
+          await message.reply(`𝗞𝗔𝗜𝗥𝗢 𝗚𝗣𝗧 \n━━━━━━━━━━━━\n\n${data.original}\n━━━━━━━━━━━━\n`);
 
           api.setMessageReaction("✅", event.messageID, () => {}, true);
 
