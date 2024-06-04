@@ -27,11 +27,11 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '𝙆𝙔𝙇𝙀 𝘽𝘼𝙄𝙏-𝙄𝙏',
+          name: '𝗞𝗔𝗜𝗥𝗢 𝗘𝗖𝗛Ø 𝗹𝗹',
           gender: '𝘽𝙤𝙮',
-          hobby: '𝙅𝙪𝙨𝙩 𝙘𝙝𝙞𝙡𝙡𝙞𝙣 𝙡𝙞𝙠𝙚 𝙖 𝙥𝙚𝙖𝙘𝙚𝙛𝙪𝙡 𝙡𝙞𝙛𝙚😉',
-          relationship: '𝙬𝙞𝙩𝙝 𝙕𝙖𝙞𝙧𝙖 𝙈𝙤𝙣𝙩𝙚𝙧𝙤',
-          facebookLink: 'https://www.facebook.com/itssmekylebaitit',
+          hobby: '𝗡/𝗔',
+          relationship: '𝗡/𝗔',
+          facebookLink: 'https://www.facebook.com/profile.php?id=61558375595843',
           bio: ''
         };
 
